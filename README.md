@@ -60,3 +60,11 @@ Some ideas for horizontal smooth scroll layouts and animations.
 A grid layout with columns that scroll in opposite directions.
 
 **[Démo](https://tympanus.net/Development/ColumnScroll/)**
+
+## [Image Tiles Scroll Animation](https://github.com/idrissdiakite/locomotive-examples/tree/main/5-scroll-animation-images-grid)
+
+![Screenshot](https://github.com/idrissdiakite/locomotive-examples/blob/main/img/4.jpeg)
+
+Different Scroll animations for image grids.
+
+**[Démo](https://tympanus.net/Development/TileScroll/)**
