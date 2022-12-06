@@ -37,10 +37,18 @@ An experimental animation where an image goes from thumbnail to full width, allo
 
 **[Démo](https://tympanus.net/Development/ThumbFullTransition/)**
 
-## [On-Scroll Letter Animations](2-onscroll-letter-animation)
+## [On-Scroll Letter Animations](https://github.com/idrissdiakite/locomotive-examples/tree/main/2-onscroll-letter-animation)
 
 ![Screenshot](https://github.com/idrissdiakite/locomotive-examples/blob/main/img/2.jpeg)
 
 A small set of examples showing how letters can be animated on scroll.
 
 **[Démo](https://tympanus.net/Development/OnScrollLetterAnimations/)**
+
+## [Horizontal Smooth Scroll Layouts](https://github.com/idrissdiakite/locomotive-examples/tree/main/3-horizontal-smooth-scroll-layout)
+
+![Screenshot](https://github.com/idrissdiakite/locomotive-examples/blob/main/img/3.jpeg)
+
+Some ideas for horizontal smooth scroll layouts and animations.
+
+**[Démo](https://tympanus.net/Development/HorizontalSmoothScrollLayout/)**
