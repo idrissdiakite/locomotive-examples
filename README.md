@@ -52,3 +52,11 @@ A small set of examples showing how letters can be animated on scroll.
 Some ideas for horizontal smooth scroll layouts and animations.
 
 **[Démo](https://tympanus.net/Development/HorizontalSmoothScrollLayout/)**
+
+## [Alternate Column Scroll Animation](https://github.com/idrissdiakite/locomotive-examples/tree/main/4-alternate-column-scroll)
+
+![Screenshot](https://github.com/idrissdiakite/locomotive-examples/blob/main/img/4.jpeg)
+
+A grid layout with columns that scroll in opposite directions.
+
+**[Démo](https://tympanus.net/Development/ColumnScroll/)**
