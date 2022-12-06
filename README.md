@@ -36,3 +36,11 @@ Two simple intro animations where an image stack moves to become a grid.
 An experimental animation where an image goes from thumbnail to full width, allowing for a classy entry to an article view.
 
 **[Démo](https://tympanus.net/Development/ThumbFullTransition/)**
+
+## [On-Scroll Letter Animations](2-onscroll-letter-animation)
+
+![Screenshot](https://github.com/idrissdiakite/locomotive-examples/blob/main/img/2.jpeg)
+
+A small set of examples showing how letters can be animated on scroll.
+
+**[Démo](https://tympanus.net/Development/OnScrollLetterAnimations/)**
