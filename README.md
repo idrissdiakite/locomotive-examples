@@ -63,7 +63,7 @@ A grid layout with columns that scroll in opposite directions.
 
 ## [5 - Image Tiles Scroll Animation](https://github.com/idrissdiakite/locomotive-examples/tree/main/5-scroll-animation-images-grid)
 
-![Screenshot](https://github.com/idrissdiakite/locomotive-examples/blob/main/img/4.jpeg)
+![Screenshot](https://github.com/idrissdiakite/locomotive-examples/blob/main/img/5.jpeg)
 
 Different Scroll animations for image grids.
 
